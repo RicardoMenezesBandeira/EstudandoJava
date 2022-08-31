@@ -1,0 +1,9 @@
+package com.dio.base;
+
+public class Order {
+	public String code;
+	public String Order(String code){
+	 this.code = code;
+	 return this.code;
+	}
+}

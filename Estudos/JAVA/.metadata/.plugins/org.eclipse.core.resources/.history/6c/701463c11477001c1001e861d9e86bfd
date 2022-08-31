@@ -1,0 +1,22 @@
+/**
+ * 
+ */
+package com.dio;
+
+import com.dio.Order;
+
+/**
+ * @author Ricardo
+ *
+ */
+public class PrimeiroProgramaEclipse {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Order orde =new Order("1234");
+	}
+
+}
